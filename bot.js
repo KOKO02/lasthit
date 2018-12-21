@@ -12,7 +12,7 @@ client.on('message', msg => {
 });
 
 
-client.login(process.env.NTI1NDg3MDA3MDE5ODI3MjI3.Dv7r_w.WhknFFFe2BjYmdDnD0v7YNXwx_8); 
-client2.login(process.env.NTI1NjMwNjg2NDMxMDE5MDEx.Dv7smQ.WUk1T4nIjY98w7jsIE9jDFV7na8); 
-client3.login(process.env.NTI1NjMxNTk5NjAyMzAyOTk3.Dv7szw.I5z_8WVioicok5xO6bz3Mm9ZVGA); 
-client4.login(process.env.NTI1Nzg3MDU5MzA3MTUxMzcy.Dv7tGQ.e-rx1fRULlogAqpoqcAtKt5-_WI); 
+client.login(process.env.BOT_TOKEN); 
+client2.login(process.env.BOT_TOKEN2); 
+client3.login(process.env.BOT_TOKEN3); 
+client4.login(process.env.BOT_TOKEN4); 
